@@ -3,6 +3,7 @@ lab:
     title: '06 - Implement Directory Synchronization'
     module: 'Module 01 - Manage Identity and Access'
 ---
+https://www.youtube.com/watch?v=3IpUHfXAiZY
 
 # Lab 06: Implement Directory Synchronization
 # Student lab manual
