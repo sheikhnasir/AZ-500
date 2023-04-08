@@ -4,6 +4,9 @@ lab:
     module: 'Module 01 - Manage Identity and Access'
 ---
 
+https://www.youtube.com/watch?v=-SAKKoItrL8 
+
+
 # Lab 05: Azure AD Privileged Identity Management
 # Student lab manual
 
