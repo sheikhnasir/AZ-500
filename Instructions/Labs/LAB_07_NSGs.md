@@ -3,6 +3,7 @@ lab:
     title: '07 - Network Security Groups and Application Security Groups'
     module: 'Module 02 - Implement Platform Protection'
 ---
+https://youtu.be/068B0rKnf8Y
 
 # Lab 07: Network Security Groups and Application Security Groups
 # Student lab manual
