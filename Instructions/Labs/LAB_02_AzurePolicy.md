@@ -3,6 +3,8 @@ lab:
     title: '02 - Azure Policy'
     module: 'Module 01 - Manage Identity and Access'
 ---
+https://youtu.be/0nVPfppHb_Q
+
 
 # Lab 02: Azure Policy
 # Student lab manual
