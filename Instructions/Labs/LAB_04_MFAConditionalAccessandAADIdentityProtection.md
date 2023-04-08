@@ -3,6 +3,7 @@ lab:
     title: '04 - MFA, and Conditional Access'
     module: 'Module 01 - Manage Identity and Access'
 ---
+https://youtu.be/4KWvu5OmSfI
 
 # Lab 04: MFA, and Conditional Access
 # Student lab manual
