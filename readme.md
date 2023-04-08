@@ -1,3 +1,6 @@
+For more information refer to https://learn.microsoft.com/en-us/training/paths/manage-identity-access/
+
+
 # AZ-500: Microsoft Azure Security Technologies
 
 - **[Link to labs (HTML format)](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)**
